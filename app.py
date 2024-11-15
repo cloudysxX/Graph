@@ -12,7 +12,7 @@ birth_rates = [4.53, 2.93, 1.59, 1.19, 1.03, 0.84, 0.72]
 
 plt.figure(figsize=(10, 6))
 plt.plot(years, birth_rates, marker='o')
-plt.title('Total Fertility Rate in South Korea (1970-2023)', fontsize=16, fontproperties=fontprop)
+plt.title('대한민국 출산율 (1970-2023)', fontsize=16, fontproperties=fontprop)
 plt.xticks(years)
 plt.grid()
 
