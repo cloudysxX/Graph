@@ -16,5 +16,5 @@ plt.title('대한민국 출산율 (1970-2023)', fontsize=16, fontproperties=font
 plt.xticks(years)
 plt.grid()
 
-plt.savefig('output.png')
+plt.savefig('output.png') # Save the image as png format
 plt.close()
