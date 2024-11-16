@@ -1,2 +1,3 @@
-# This is the result of this template!
+## Template Result
 
+![alt text](http://url/to/img.png)
