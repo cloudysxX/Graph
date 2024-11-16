@@ -1,3 +1,3 @@
 ## Template Result
 
-![alt text](http://url/to/img.png)
+![Result]([http://url/to/img.png](https://i.imgur.com/ENkfay3.png))
